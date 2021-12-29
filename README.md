@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VeroSanz
+- 👀 I’m interested in development front end and big data
+- 🌱 I’m currently learning HTML, CSS, JavaScript and databases
+- 💞️ I’m looking to collaborate on massive data management projects
+- 📫 How to reach me fvsanchezg19@gmail.com
